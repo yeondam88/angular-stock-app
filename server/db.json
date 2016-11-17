@@ -1,0 +1,14 @@
+{
+  "stocks": [
+    {
+      "name": "Tesla",
+      "stockCode": "TSL",
+      "id": 4
+    },
+    {
+      "name": "VRS Design",
+      "stockCode": "VRSD",
+      "id": 5
+    }
+  ]
+}
